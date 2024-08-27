@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  codeblock:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-27T19:49:19.077459+02:00"
+    description: Entorno de desarrollo integrado multiplataforma para C, C++ y Fortran
+    digest: c312abddccee12ac3a9c3bb1628d6000911b9cc7445fec474c2b61e5005bae84
+    name: codeblock
+    type: application
+    urls:
+    - https://vlopser.github.io/prueba/codeblock-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-27T19:49:19.076943+02:00"
