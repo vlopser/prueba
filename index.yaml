@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  bluej:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-04T14:55:11.435815+02:00"
+    description: Entorno de desarrollo integrado diseñado para enseñar y aprender
+      programación en Java.
+    digest: 28210f04d8add059d811bb821a79fb736f6cbd619aed7f9ac796f910a7f1fc7c
+    name: bluej
+    type: application
+    urls:
+    - https://vlopser.github.io/prueba/bluej-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-04T14:55:11.435257+02:00"
