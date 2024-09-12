@@ -7,7 +7,7 @@ entries:
     description: Entorno de desarrollo integrado diseñado para enseñar y aprender
       programación en Java.
     digest: 8d81925b63e2bfc9eb250cbe0aa1960df0dfdec411fcec77e7fec6bf11335a92
-    icon: https://www.ovhcloud.com/sites/default/files/styles/text_media_horizontal/public/2021-04/K8S-logo.webp
+    icon: https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png
     name: bluej
     type: application
     urls:
